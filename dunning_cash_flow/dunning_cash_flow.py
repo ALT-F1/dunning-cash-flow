@@ -24,8 +24,8 @@ twikeyApiToken=<40 chars>
 """
 
 
-class DunningCashflow:
-    def __init__(self, caller="DunningCashflow"):
+class DunningCashFlow:
+    def __init__(self, caller="DunningCashFlow"):
         logging.info(
             f"{'='*25} {inspect.currentframe().f_code.co_name}"
         )
