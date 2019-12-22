@@ -6,7 +6,7 @@
         "email": "abo+dunning_cash_flow_pkg@alt-f1.be",
         "url": "https://github.com/abdelkrim"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "${workspaceFolder}/dunning_cash_flow/dunning_cash_flow.py",
     "scripts": {
         "release": "standard-version",
