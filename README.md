@@ -1,4 +1,4 @@
-# dunningcashflow
+# dunning-cash-flow
 
 Dunning cash flow is wrapper for Twikey REST APIs : Automatic payments for recurring customers.
 
@@ -52,13 +52,17 @@ Dunning cash flow is part of another project aiming at providing Dunning service
 * list functions inside the module
     *  the package `python -c "import dunning_cash_flow as _; print(dir(_))"`
 
+
 ## Documentation
 
 * Packaging Python Projects <https://packaging.python.org/tutorials/packaging-projects/>
+* Managing Application Dependencies <https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies>
+* Packaging and distributing projects <https://packaging.python.org/guides/distributing-packages-using-setuptools/#distributing-packages>
 
 ## License
 
-Copyright (c) ALT-F1 SPRL. All rights reserved.
+Copyright (c) ALT-F1 SPRL, Abdelkrim Boujraf. All rights reserved.
 
-Licensed under the EUPL License, Version 1.2. 
+Licensed under the EUPL License, Version 1.2.
+
 See LICENSE in the project root for license information.
