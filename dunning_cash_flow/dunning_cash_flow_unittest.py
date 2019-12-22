@@ -20,7 +20,7 @@ class DunningCashFlowTests(unittest.TestCase):
 
 
     def test_login_failed(self):
-        """ Test that the authorization code is {'message': 'Not logged in'}"""
+        """ Test that the authorization code is {'code': 'err_not_authorised', 'message': 'Not authorised'}"""
         error_code = {'code': 'err_not_authorised', 'message': 'Not authorised'}
         self.Auth.login(api_token="A_WRONG_CODE")
         self.assertEqual(self.Auth.authorization, error_code)
