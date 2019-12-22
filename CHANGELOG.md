@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://bitbucket.org/altf1be/dunning-cash-flow/compare/v0.0.2...v1.0.0) (2019-12-22)
+
+
+### Builds
+
+* remove *egg* directories during the 'npm run clean:setup.py' ([74c5842](https://bitbucket.org/altf1be/dunning-cash-flow/commit/74c584256dc0ad837d24e85179567479474b9276))
+
 ### [0.0.2](https://bitbucket.org/altf1be/dunning-cash-flow/compare/v0.0.1...v0.0.2) (2019-12-22)
 
 
