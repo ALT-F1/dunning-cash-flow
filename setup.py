@@ -82,8 +82,8 @@ setuptools.setup(
     # maintainers, and where to support the project financially. The key is
     # what's used to render the link text on PyPI.
     project_urls={  # Optional
-        'Bug Reports': 'https://bitbucket.org/altf1be/dunningcashflow/issues?status=new&status=open',
+        'Bug Reports': 'https://bitbucket.org/altf1be/dunning-cash-flow/issues?status=new&status=open',
         'Company behind the library': 'http://www.alt-f1.be',
-        'Source': 'https://bitbucket.org/altf1be/dunningcashflow',
+        'Source': 'https://bitbucket.org/altf1be/dunning-cash-flow',
     }
 )
