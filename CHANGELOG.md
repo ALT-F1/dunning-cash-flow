@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://bitbucket.org/altf1be/dunning-cash-flow/compare/v1.0.0...v1.0.1) (2020-04-08)
+
+
+### Chores
+
+* vulnerability Upgrade minimist to version 0.2.1 ([ddc4a42](https://bitbucket.org/altf1be/dunning-cash-flow/commit/ddc4a4241650d865a6880471a0d6e903578b48b7))
+
 ## [1.0.0](https://bitbucket.org/altf1be/dunning-cash-flow/compare/v0.0.2...v1.0.0) (2019-12-22)
 
 
